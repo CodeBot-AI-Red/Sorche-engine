@@ -1,0 +1,24 @@
+# Godot
+.godot/
+dist/
+build/
+*.exe
+*.apk
+*.aab
+
+# User files
+user://
+*.tres~
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled
+*.o
+*.so
+*.dylib
